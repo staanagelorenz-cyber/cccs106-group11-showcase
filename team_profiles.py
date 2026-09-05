@@ -55,11 +55,11 @@ def get_initial_team() -> List[TeamMember]:
         # Replace Developer 2 profile with your real student details:
         # ----------------------------------------------------------------------
         TeamMember(
-            student_id="[Dev 2] Student ID Here",  # example: "2024-10456"
-            full_name="[Dev 2] Student Name Here", # example: "Juan Dela Cruz"
+            student_id="2411282",  # example: "2024-10456"
+            full_name="Renz Angelo S. Priela", # example: "Juan Dela Cruz"
             role="Backend & State Engineer",
             specialization="State Mutation & Event Handlers",
-            github_handle="@dev2-github",          # example: "@jdelacruz-cspc"
+            github_handle="@rnxee",          # example: "@jdelacruz-cspc"
             avatar_icon=ft.Icons.DATA_OBJECT,
             accent_color=ft.Colors.AMBER_800,
             photo_url="/dev2.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/dev2-github.png")
