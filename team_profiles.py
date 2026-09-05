@@ -62,7 +62,7 @@ def get_initial_team() -> List[TeamMember]:
             github_handle="@rnxee",          # example: "@jdelacruz-cspc"
             avatar_icon=ft.Icons.DATA_OBJECT,
             accent_color=ft.Colors.AMBER_800,
-            photo_url="/dev2.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/dev2-github.png")
+            photo_url=None,                 # Photo: local asset or URL (e.g. "https://github.com/dev2-github.png")
         ),
         # ----------------------------------------------------------------------
         # TODO: [DEVELOPER 3 TASK] - Branch: feature/dev3-features
