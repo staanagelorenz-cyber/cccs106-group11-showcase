@@ -1,0 +1,11 @@
+* 6a2175e docs(report): complete report screenshots and developer 3 details
+* d49d4ad docs[Lab_Report]: Added new Screenshot, and minor fixes.
+*   26c22c4 Merge pull request #1 from staanagelorenz-cyber/agents/update-branch-with-latest-changes
+|\  
+| * aa86da1 docs(report): finalize lab report
+|/  
+* 8e9ec3e feat(milestone): integrate developer 3 profile and sprint goal milestone badge
+* 83478e3 docs(Lab_Report): Add SS for Figure [2,5,6]. Answered Dev 2 Reflection
+* 38cc06b feat(state): integrate developer 2 profile and task counter handlers
+* 1f0e7c8 feat(profile): integrate developer 1 profile card
+* dec4696 chore(init): baseline repository with modern flet app and verification tool
